@@ -1,0 +1,1 @@
+# lbsr-training-repository
