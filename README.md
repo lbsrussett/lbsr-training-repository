@@ -1,3 +1,3 @@
-# Lbsr Training Repository
+# LBSR Training Repository
 
 Repository to practice working with Git and GitHub.
